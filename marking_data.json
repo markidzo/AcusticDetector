@@ -1,0 +1,1901 @@
+{
+    "labels": [
+        "bearning_fault",
+        "electric_noise",
+        "friction",
+        "gas_leak",
+        "impact",
+        "pump",
+        "water_leak"
+    ],
+    "data": [
+        {
+            "id": 157,
+            "path": "C:/labelstudio/data/media/upload/9/4a855d94-Electric_Sparks_Sound_Effect.wav",
+            "mark_list": [
+                {
+                    "start": 2.1,
+                    "end": 7.66,
+                    "labels": [
+                        "electric_noise"
+                    ]
+                },
+                {
+                    "start": 8.8,
+                    "end": 16.71,
+                    "labels": [
+                        "electric_noise"
+                    ]
+                },
+                {
+                    "start": 17.29,
+                    "end": 28.74,
+                    "labels": [
+                        "electric_noise"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 158,
+            "path": "C:/labelstudio/data/media/upload/9/a7c00f5c-electric_noise.wav",
+            "mark_list": [
+                {
+                    "start": 0.48,
+                    "end": 62.83,
+                    "labels": [
+                        "electric_noise"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 159,
+            "path": "C:/labelstudio/data/media/upload/9/9b89310c-ELECTRICITY___ELECTRO_SHOCK_SOUND_EFFECTS_PACK_-_FREE_HQ_SFX.wav",
+            "mark_list": [
+                {
+                    "start": 4.96,
+                    "end": 10.45,
+                    "labels": [
+                        "electric_noise"
+                    ]
+                },
+                {
+                    "start": 11.98,
+                    "end": 20.19,
+                    "labels": [
+                        "electric_noise"
+                    ]
+                },
+                {
+                    "start": 20.8,
+                    "end": 36.95,
+                    "labels": [
+                        "electric_noise"
+                    ]
+                },
+                {
+                    "start": 41.3,
+                    "end": 48.76,
+                    "labels": [
+                        "electric_noise"
+                    ]
+                },
+                {
+                    "start": 49.42,
+                    "end": 64.74,
+                    "labels": [
+                        "electric_noise"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 160,
+            "path": "C:/labelstudio/data/media/upload/9/1b8dada8-Electricity_Arcing_-_Sound_Effects.wav",
+            "mark_list": [
+                {
+                    "start": 1.94,
+                    "end": 6.79,
+                    "labels": [
+                        "electric_noise"
+                    ]
+                },
+                {
+                    "start": 8.2,
+                    "end": 18.12,
+                    "labels": [
+                        "electric_noise"
+                    ]
+                },
+                {
+                    "start": 20.81,
+                    "end": 25.54,
+                    "labels": [
+                        "electric_noise"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 161,
+            "path": "C:/labelstudio/data/media/upload/9/ffba1397-Electricity_Sound_Effect_-_Force_Field_Loop.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 190.66,
+                    "labels": [
+                        "electric_noise"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 162,
+            "path": "C:/labelstudio/data/media/upload/9/db5497b6-Electricity_spark_sound_effects_HQ_2.wav",
+            "mark_list": [
+                {
+                    "start": 0.11,
+                    "end": 11.44,
+                    "labels": [
+                        "electric_noise"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 163,
+            "path": "C:/labelstudio/data/media/upload/9/3f6c5cc4-Electricity_spark_sound_effects_HQ.wav",
+            "mark_list": [
+                {
+                    "start": 0.17,
+                    "end": 15.22,
+                    "labels": [
+                        "electric_noise"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 164,
+            "path": "C:/labelstudio/data/media/upload/9/0a277293-High_Voltage_-_Electricity_Sound_Effects_-_Electric_Crackling_Sounds_-_gmVXOOC.wav",
+            "mark_list": [
+                {
+                    "start": 9.88,
+                    "end": 22.57,
+                    "labels": [
+                        "electric_noise"
+                    ]
+                },
+                {
+                    "start": 25.23,
+                    "end": 31.61,
+                    "labels": [
+                        "electric_noise"
+                    ]
+                },
+                {
+                    "start": 33.08,
+                    "end": 40.23,
+                    "labels": [
+                        "electric_noise"
+                    ]
+                },
+                {
+                    "start": 42.4,
+                    "end": 48.14,
+                    "labels": [
+                        "electric_noise"
+                    ]
+                },
+                {
+                    "start": 50.25,
+                    "end": 70.99,
+                    "labels": [
+                        "electric_noise"
+                    ]
+                },
+                {
+                    "start": 81.5,
+                    "end": 96.36,
+                    "labels": [
+                        "electric_noise"
+                    ]
+                },
+                {
+                    "start": 100.49,
+                    "end": 117.38,
+                    "labels": [
+                        "electric_noise"
+                    ]
+                },
+                {
+                    "start": 121.17,
+                    "end": 154.46,
+                    "labels": [
+                        "electric_noise"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 165,
+            "path": "C:/labelstudio/data/media/upload/9/7d3fdc3d-mechanical-25592.wav",
+            "mark_list": [
+                {
+                    "start": 0.82,
+                    "end": 48.17,
+                    "labels": [
+                        "friction"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 166,
+            "path": "C:/labelstudio/data/media/upload/9/d12c7e9c-Metal_friction_sound_effect___Enjoy.wav",
+            "mark_list": [
+                {
+                    "start": 0.46,
+                    "end": 5.38,
+                    "labels": [
+                        "friction"
+                    ]
+                },
+                {
+                    "start": 6.23,
+                    "end": 15.67,
+                    "labels": [
+                        "friction"
+                    ]
+                },
+                {
+                    "start": 16.44,
+                    "end": 29.08,
+                    "labels": [
+                        "friction"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 168,
+            "path": "C:/labelstudio/data/media/upload/9/9213a755-metal-friction-70526.wav",
+            "mark_list": [
+                {
+                    "start": 0.13,
+                    "end": 9.49,
+                    "labels": [
+                        "friction"
+                    ]
+                },
+                {
+                    "start": 10.05,
+                    "end": 31.18,
+                    "labels": [
+                        "friction"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 169,
+            "path": "C:/labelstudio/data/media/upload/9/f9d1e6b0-metallic-high-pitched-scraping-23784.wav",
+            "mark_list": [
+                {
+                    "start": 0.52,
+                    "end": 114.53,
+                    "labels": [
+                        "friction"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 170,
+            "path": "C:/labelstudio/data/media/upload/9/37ad9a86-metallic-scraping-in-metal-barrel-52352.wav",
+            "mark_list": [
+                {
+                    "start": 2.76,
+                    "end": 20.29,
+                    "labels": [
+                        "friction"
+                    ]
+                },
+                {
+                    "start": 21.59,
+                    "end": 55.69,
+                    "labels": [
+                        "friction"
+                    ]
+                },
+                {
+                    "start": 69.16,
+                    "end": 93.35,
+                    "labels": [
+                        "friction"
+                    ]
+                },
+                {
+                    "start": 96.27,
+                    "end": 102.12,
+                    "labels": [
+                        "friction"
+                    ]
+                },
+                {
+                    "start": 106.01,
+                    "end": 113.32,
+                    "labels": [
+                        "friction"
+                    ]
+                },
+                {
+                    "start": 117.21,
+                    "end": 126.31,
+                    "labels": [
+                        "friction"
+                    ]
+                },
+                {
+                    "start": 129.55,
+                    "end": 141.08,
+                    "labels": [
+                        "friction"
+                    ]
+                },
+                {
+                    "start": 144.65,
+                    "end": 150.5,
+                    "labels": [
+                        "friction"
+                    ]
+                },
+                {
+                    "start": 166.57,
+                    "end": 178.09,
+                    "labels": [
+                        "friction"
+                    ]
+                },
+                {
+                    "start": 181.83,
+                    "end": 192.71,
+                    "labels": [
+                        "friction"
+                    ]
+                },
+                {
+                    "start": 208.94,
+                    "end": 235.89,
+                    "labels": [
+                        "friction"
+                    ]
+                },
+                {
+                    "start": 246.77,
+                    "end": 273.39,
+                    "labels": [
+                        "friction"
+                    ]
+                },
+                {
+                    "start": 276.31,
+                    "end": 286.06,
+                    "labels": [
+                        "friction"
+                    ]
+                },
+                {
+                    "start": 293.69,
+                    "end": 330.38,
+                    "labels": [
+                        "friction"
+                    ]
+                },
+                {
+                    "start": 334.11,
+                    "end": 342.55,
+                    "labels": [
+                        "friction"
+                    ]
+                },
+                {
+                    "start": 347.91,
+                    "end": 354.57,
+                    "labels": [
+                        "friction"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 171,
+            "path": "C:/labelstudio/data/media/upload/9/a3592032-Slowly_Scraping_Metal___HQ_Sound_Effects.wav",
+            "mark_list": [
+                {
+                    "start": 7.38,
+                    "end": 74.45,
+                    "labels": [
+                        "friction"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 172,
+            "path": "C:/labelstudio/data/media/upload/9/e94a87c5-Sparks_SOUND_EFFECT_-_Funken_SOUNDS_Electricity_Kabelbrand_Stromkabel__SC1UiG6.wav",
+            "mark_list": [
+                {
+                    "start": 5.78,
+                    "end": 9.8,
+                    "labels": [
+                        "electric_noise"
+                    ]
+                },
+                {
+                    "start": 12.26,
+                    "end": 17.69,
+                    "labels": [
+                        "electric_noise"
+                    ]
+                },
+                {
+                    "start": 18.87,
+                    "end": 27.34,
+                    "labels": [
+                        "electric_noise"
+                    ]
+                },
+                {
+                    "start": 28.51,
+                    "end": 35.62,
+                    "labels": [
+                        "electric_noise"
+                    ]
+                },
+                {
+                    "start": 38.2,
+                    "end": 42.34,
+                    "labels": [
+                        "electric_noise"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 173,
+            "path": "C:/labelstudio/data/media/upload/9/c3c5e10d-videoplayback_1.wav",
+            "mark_list": [
+                {
+                    "start": 0.23,
+                    "end": 7.43,
+                    "labels": [
+                        "friction"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 174,
+            "path": "C:/labelstudio/data/media/upload/9/083839e9-177412__roscoelee__rattlesounds.wav",
+            "mark_list": [
+                {
+                    "start": 0.21,
+                    "end": 5.06,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                },
+                {
+                    "start": 5.33,
+                    "end": 25.67,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 175,
+            "path": "C:/labelstudio/data/media/upload/9/5b95b6f0-274752__kwahmah_02__gas-leak.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 83.63,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 176,
+            "path": "C:/labelstudio/data/media/upload/9/caeb44a9-327011__bleachbear__150209-trevor-webb-air-cyclinder.wav",
+            "mark_list": [
+                {
+                    "start": 2.57,
+                    "end": 7.46,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                },
+                {
+                    "start": 12.19,
+                    "end": 19.31,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 177,
+            "path": "C:/labelstudio/data/media/upload/9/00a70ad3-366010__pastabra__tube-deflating.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 62.37,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                },
+                {
+                    "start": 65.22,
+                    "end": 184.77,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 178,
+            "path": "C:/labelstudio/data/media/upload/9/1310ccde-407227__vanessabarcelos__brinquedo-de-ar.wav",
+            "mark_list": [
+                {
+                    "start": 0.7,
+                    "end": 5.6,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                },
+                {
+                    "start": 7.29,
+                    "end": 15.64,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                },
+                {
+                    "start": 27.05,
+                    "end": 37.42,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                },
+                {
+                    "start": 39.49,
+                    "end": 58.68,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 179,
+            "path": "C:/labelstudio/data/media/upload/9/46dcdc16-20250905-173044-registrar-mono.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 4.17,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                },
+                {
+                    "start": 6.06,
+                    "end": 10.26,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                },
+                {
+                    "start": 11.88,
+                    "end": 16.05,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                },
+                {
+                    "start": 17.88,
+                    "end": 22.11,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                },
+                {
+                    "start": 23.7,
+                    "end": 27.95,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                },
+                {
+                    "start": 29.62,
+                    "end": 33.79,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                },
+                {
+                    "start": 35.6,
+                    "end": 39.72,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                },
+                {
+                    "start": 41.58,
+                    "end": 45.67,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                },
+                {
+                    "start": 47.51,
+                    "end": 51.68,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                },
+                {
+                    "start": 53.05,
+                    "end": 57.19,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 180,
+            "path": "C:/labelstudio/data/media/upload/9/866bae2c-20250905-174220-registrar-mono.wav",
+            "mark_list": [
+                {
+                    "start": 2.44,
+                    "end": 41.75,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                },
+                {
+                    "start": 43.06,
+                    "end": 60.67,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 181,
+            "path": "C:/labelstudio/data/media/upload/9/94dab404-air_leak_1.wav",
+            "mark_list": [
+                {
+                    "start": 1.75,
+                    "end": 6.66,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                },
+                {
+                    "start": 7.91,
+                    "end": 21.0,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 182,
+            "path": "C:/labelstudio/data/media/upload/9/5498e6ee-air_leak_2.wav",
+            "mark_list": [
+                {
+                    "start": 1.62,
+                    "end": 21.0,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 183,
+            "path": "C:/labelstudio/data/media/upload/9/e9e1d32d-air_leak_3.wav",
+            "mark_list": [
+                {
+                    "start": 0.21,
+                    "end": 11.18,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                },
+                {
+                    "start": 12.24,
+                    "end": 20.97,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 184,
+            "path": "C:/labelstudio/data/media/upload/9/ff3b3166-20250905-171308-registrar-mono.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 44.02,
+                    "labels": [
+                        "impact"
+                    ]
+                },
+                {
+                    "start": 51.35,
+                    "end": 59.96,
+                    "labels": [
+                        "impact"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 185,
+            "path": "C:/labelstudio/data/media/upload/9/8d0dbfa1-20250905-174938-registrar-mono.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 13.39,
+                    "labels": [
+                        "impact"
+                    ]
+                },
+                {
+                    "start": 26.63,
+                    "end": 52.33,
+                    "labels": [
+                        "impact"
+                    ]
+                },
+                {
+                    "start": 15.36,
+                    "end": 25.7,
+                    "labels": [
+                        "impact"
+                    ]
+                },
+                {
+                    "start": 55.98,
+                    "end": 60.67,
+                    "labels": [
+                        "impact"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 187,
+            "path": "C:/labelstudio/data/media/upload/9/e91ec375-Heavy_Metal_Hit_Sound_Effect.wav",
+            "mark_list": [
+                {
+                    "start": 0.46,
+                    "end": 4.62,
+                    "labels": [
+                        "impact"
+                    ]
+                },
+                {
+                    "start": 4.86,
+                    "end": 9.03,
+                    "labels": [
+                        "impact"
+                    ]
+                },
+                {
+                    "start": 9.84,
+                    "end": 14.01,
+                    "labels": [
+                        "impact"
+                    ]
+                },
+                {
+                    "start": 14.96,
+                    "end": 19.12,
+                    "labels": [
+                        "impact"
+                    ]
+                },
+                {
+                    "start": 19.72,
+                    "end": 23.89,
+                    "labels": [
+                        "impact"
+                    ]
+                },
+                {
+                    "start": 24.98,
+                    "end": 29.15,
+                    "labels": [
+                        "impact"
+                    ]
+                },
+                {
+                    "start": 29.89,
+                    "end": 34.05,
+                    "labels": [
+                        "impact"
+                    ]
+                },
+                {
+                    "start": 35.57,
+                    "end": 39.74,
+                    "labels": [
+                        "impact"
+                    ]
+                },
+                {
+                    "start": 40.62,
+                    "end": 46.21,
+                    "labels": [
+                        "impact"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 188,
+            "path": "C:/labelstudio/data/media/upload/9/8b069e1d-Heavy_Metal_Impact_Sound_Effects_-_Industrial_Impact_Sounds_-_Big_Meta_ghRbT3W.wav",
+            "mark_list": [
+                {
+                    "start": 1.9,
+                    "end": 163.98,
+                    "labels": [
+                        "impact"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 189,
+            "path": "C:/labelstudio/data/media/upload/9/84891912-Hit_Metal_Hard_Sound_Effect.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 14.01,
+                    "labels": [
+                        "impact"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 190,
+            "path": "C:/labelstudio/data/media/upload/9/5892a2a2-impact_1.wav",
+            "mark_list": [
+                {
+                    "start": 0.71,
+                    "end": 4.81,
+                    "labels": [
+                        "impact"
+                    ]
+                },
+                {
+                    "start": 6.22,
+                    "end": 15.26,
+                    "labels": [
+                        "impact"
+                    ]
+                },
+                {
+                    "start": 16.63,
+                    "end": 20.92,
+                    "labels": [
+                        "impact"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 191,
+            "path": "C:/labelstudio/data/media/upload/9/d4ed4409-impact_2.wav",
+            "mark_list": [
+                {
+                    "start": 0.48,
+                    "end": 4.56,
+                    "labels": [
+                        "impact"
+                    ]
+                },
+                {
+                    "start": 5.01,
+                    "end": 9.72,
+                    "labels": [
+                        "impact"
+                    ]
+                },
+                {
+                    "start": 12.66,
+                    "end": 18.96,
+                    "labels": [
+                        "impact"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 192,
+            "path": "C:/labelstudio/data/media/upload/9/6df10a26-impact_3.wav",
+            "mark_list": [
+                {
+                    "start": 0.39,
+                    "end": 4.39,
+                    "labels": [
+                        "impact"
+                    ]
+                },
+                {
+                    "start": 6.3,
+                    "end": 10.31,
+                    "labels": [
+                        "impact"
+                    ]
+                },
+                {
+                    "start": 12.66,
+                    "end": 16.67,
+                    "labels": [
+                        "impact"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 193,
+            "path": "C:/labelstudio/data/media/upload/9/436da8ba-impact_4.wav",
+            "mark_list": [
+                {
+                    "start": 0.19,
+                    "end": 4.39,
+                    "labels": [
+                        "impact"
+                    ]
+                },
+                {
+                    "start": 5.94,
+                    "end": 10.14,
+                    "labels": [
+                        "impact"
+                    ]
+                },
+                {
+                    "start": 11.15,
+                    "end": 16.28,
+                    "labels": [
+                        "impact"
+                    ]
+                },
+                {
+                    "start": 16.8,
+                    "end": 21.0,
+                    "labels": [
+                        "impact"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 194,
+            "path": "C:/labelstudio/data/media/upload/9/36f8d2e2-id0_00000020.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 10.0,
+                    "labels": [
+                        "water_leak"
+                    ]
+                },
+                {
+                    "start": 1.69,
+                    "end": 8.31,
+                    "labels": [
+                        "pump"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 195,
+            "path": "C:/labelstudio/data/media/upload/9/dcabebc3-id0_00000026.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 10.0,
+                    "labels": [
+                        "water_leak"
+                    ]
+                },
+                {
+                    "start": 1.37,
+                    "end": 9.84,
+                    "labels": [
+                        "pump"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 196,
+            "path": "C:/labelstudio/data/media/upload/9/107a5dca-id0_00000027.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 10.0,
+                    "labels": [
+                        "water_leak"
+                    ]
+                },
+                {
+                    "start": 0.38,
+                    "end": 4.67,
+                    "labels": [
+                        "pump"
+                    ]
+                },
+                {
+                    "start": 5.66,
+                    "end": 9.96,
+                    "labels": [
+                        "pump"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 197,
+            "path": "C:/labelstudio/data/media/upload/9/264b04ec-id0_00000028.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 10.0,
+                    "labels": [
+                        "water_leak"
+                    ]
+                },
+                {
+                    "start": 0.12,
+                    "end": 4.55,
+                    "labels": [
+                        "pump"
+                    ]
+                },
+                {
+                    "start": 5.21,
+                    "end": 10.0,
+                    "labels": [
+                        "pump"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 198,
+            "path": "C:/labelstudio/data/media/upload/9/c54d6ab0-id0_00000029.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 10.0,
+                    "labels": [
+                        "water_leak"
+                    ]
+                },
+                {
+                    "start": 0.63,
+                    "end": 9.78,
+                    "labels": [
+                        "pump"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 199,
+            "path": "C:/labelstudio/data/media/upload/9/f9cfbfd7-id0_00000030.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 10.0,
+                    "labels": [
+                        "water_leak"
+                    ]
+                },
+                {
+                    "start": 1.22,
+                    "end": 9.58,
+                    "labels": [
+                        "pump"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 200,
+            "path": "C:/labelstudio/data/media/upload/9/757e572f-id0_00000031.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 10.0,
+                    "labels": [
+                        "water_leak"
+                    ]
+                },
+                {
+                    "start": 0.0,
+                    "end": 10.0,
+                    "labels": [
+                        "pump"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 201,
+            "path": "C:/labelstudio/data/media/upload/9/0b50a122-id0_00000032.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 10.0,
+                    "labels": [
+                        "water_leak"
+                    ]
+                },
+                {
+                    "start": 0.0,
+                    "end": 10.0,
+                    "labels": [
+                        "pump"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 202,
+            "path": "C:/labelstudio/data/media/upload/9/87037ae4-id0_00000033.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 10.0,
+                    "labels": [
+                        "water_leak"
+                    ]
+                },
+                {
+                    "start": 0.17,
+                    "end": 4.8,
+                    "labels": [
+                        "pump"
+                    ]
+                },
+                {
+                    "start": 5.71,
+                    "end": 9.99,
+                    "labels": [
+                        "pump"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 203,
+            "path": "C:/labelstudio/data/media/upload/9/933c6588-id0_00000034.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 10.0,
+                    "labels": [
+                        "water_leak"
+                    ]
+                },
+                {
+                    "start": 0.0,
+                    "end": 10.0,
+                    "labels": [
+                        "pump"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 204,
+            "path": "C:/labelstudio/data/media/upload/9/7f1af5e4-id0_00000035.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 10.0,
+                    "labels": [
+                        "water_leak"
+                    ]
+                },
+                {
+                    "start": 0.42,
+                    "end": 9.62,
+                    "labels": [
+                        "pump"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 205,
+            "path": "C:/labelstudio/data/media/upload/9/d7dabbab-id0_00000036.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 10.0,
+                    "labels": [
+                        "water_leak"
+                    ]
+                },
+                {
+                    "start": 0.22,
+                    "end": 9.92,
+                    "labels": [
+                        "pump"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 206,
+            "path": "C:/labelstudio/data/media/upload/9/5606f4d8-id0_00000037.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 10.0,
+                    "labels": [
+                        "water_leak"
+                    ]
+                },
+                {
+                    "start": 0.0,
+                    "end": 4.02,
+                    "labels": [
+                        "pump"
+                    ]
+                },
+                {
+                    "start": 4.84,
+                    "end": 9.9,
+                    "labels": [
+                        "pump"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 207,
+            "path": "C:/labelstudio/data/media/upload/9/bae68a04-id0_00000038.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 10.0,
+                    "labels": [
+                        "water_leak"
+                    ]
+                },
+                {
+                    "start": 1.74,
+                    "end": 9.94,
+                    "labels": [
+                        "pump"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 208,
+            "path": "C:/labelstudio/data/media/upload/9/fb50ca8d-id0_00000039.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 10.0,
+                    "labels": [
+                        "water_leak"
+                    ]
+                },
+                {
+                    "start": 0.09,
+                    "end": 4.98,
+                    "labels": [
+                        "pump"
+                    ]
+                },
+                {
+                    "start": 5.92,
+                    "end": 10.0,
+                    "labels": [
+                        "pump"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 209,
+            "path": "C:/labelstudio/data/media/upload/9/cf39682d-id0_00000040.wav",
+            "mark_list": [
+                {
+                    "start": 0.11,
+                    "end": 10.0,
+                    "labels": [
+                        "water_leak"
+                    ]
+                },
+                {
+                    "start": 3.21,
+                    "end": 10.0,
+                    "labels": [
+                        "pump"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 210,
+            "path": "C:/labelstudio/data/media/upload/9/b4a7f76a-id0_00000041.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 10.0,
+                    "labels": [
+                        "water_leak"
+                    ]
+                },
+                {
+                    "start": 0.0,
+                    "end": 10.0,
+                    "labels": [
+                        "pump"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 211,
+            "path": "C:/labelstudio/data/media/upload/9/1a3f241e-id0_00000042.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 10.0,
+                    "labels": [
+                        "water_leak"
+                    ]
+                },
+                {
+                    "start": 0.21,
+                    "end": 10.0,
+                    "labels": [
+                        "pump"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 212,
+            "path": "C:/labelstudio/data/media/upload/9/b8818959-id0_00000043.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 10.0,
+                    "labels": [
+                        "water_leak"
+                    ]
+                },
+                {
+                    "start": 0.0,
+                    "end": 10.0,
+                    "labels": [
+                        "pump"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 213,
+            "path": "C:/labelstudio/data/media/upload/9/8df42442-id0_00000044.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 10.0,
+                    "labels": [
+                        "water_leak"
+                    ]
+                },
+                {
+                    "start": 0.0,
+                    "end": 4.61,
+                    "labels": [
+                        "pump"
+                    ]
+                },
+                {
+                    "start": 5.99,
+                    "end": 10.0,
+                    "labels": [
+                        "pump"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 214,
+            "path": "C:/labelstudio/data/media/upload/9/9c296ed4-id0_00000045.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 9.96,
+                    "labels": [
+                        "water_leak"
+                    ]
+                },
+                {
+                    "start": 0.24,
+                    "end": 8.63,
+                    "labels": [
+                        "pump"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 215,
+            "path": "C:/labelstudio/data/media/upload/9/463b2531-id0_00000046.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 10.0,
+                    "labels": [
+                        "water_leak"
+                    ]
+                },
+                {
+                    "start": 0.99,
+                    "end": 8.81,
+                    "labels": [
+                        "pump"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 216,
+            "path": "C:/labelstudio/data/media/upload/9/91a37eda-id0_00000047.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 10.0,
+                    "labels": [
+                        "water_leak"
+                    ]
+                },
+                {
+                    "start": 0.07,
+                    "end": 7.92,
+                    "labels": [
+                        "pump"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 217,
+            "path": "C:/labelstudio/data/media/upload/9/a0f024f9-id0_00000048.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 10.0,
+                    "labels": [
+                        "water_leak"
+                    ]
+                },
+                {
+                    "start": 1.3,
+                    "end": 9.51,
+                    "labels": [
+                        "pump"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 218,
+            "path": "C:/labelstudio/data/media/upload/9/79df9b6b-id0_00000049.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 10.0,
+                    "labels": [
+                        "water_leak"
+                    ]
+                },
+                {
+                    "start": 0.0,
+                    "end": 10.0,
+                    "labels": [
+                        "pump"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 219,
+            "path": "C:/labelstudio/data/media/upload/9/fd349795-id0_00000050.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 10.0,
+                    "labels": [
+                        "water_leak"
+                    ]
+                },
+                {
+                    "start": 1.08,
+                    "end": 10.0,
+                    "labels": [
+                        "pump"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 220,
+            "path": "C:/labelstudio/data/media/upload/9/2709e4d0-id0_00000051.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 10.0,
+                    "labels": [
+                        "water_leak"
+                    ]
+                },
+                {
+                    "start": 0.92,
+                    "end": 9.43,
+                    "labels": [
+                        "pump"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 225,
+            "path": "C:/labelstudio/data/media/upload/9/0fea1104-id0_00000074.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 10.0,
+                    "labels": [
+                        "water_leak"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 226,
+            "path": "C:/labelstudio/data/media/upload/9/4fbf65ab-Electric_Sound_Effects_Compilation.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 84.48,
+                    "labels": [
+                        "electric_noise"
+                    ]
+                },
+                {
+                    "start": 85.97,
+                    "end": 114.38,
+                    "labels": [
+                        "electric_noise"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 227,
+            "path": "debug_full\\dst\\bearning_fault\\NoLabel\\ball30hz.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 60.95,
+                    "labels": [
+                        "bearning_fault"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 228,
+            "path": "debug_full\\dst\\bearning_fault\\NoLabel\\inner ring30hz.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 60.55,
+                    "labels": [
+                        "bearning_fault"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 229,
+            "path": "debug_full\\dst\\bearning_fault\\NoLabel\\normal30hz.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 60.38,
+                    "labels": [
+                        "bearning_fault"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 230,
+            "path": "debug_full\\dst\\bearning_fault\\NoLabel\\outer ring30hz.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 60.55,
+                    "labels": [
+                        "bearning_fault"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 231,
+            "path": "debug_full\\dst\\gas_leak\\NoLabel\\182359__mrmccormack__mrm_gas_steam_escape.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 24.01,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 232,
+            "path": "debug_full\\dst\\gas_leak\\NoLabel\\20250905-171933-registrar-mono.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 60.67,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 233,
+            "path": "debug_full\\dst\\gas_leak\\NoLabel\\20250905-172205-registrar-mono.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 60.67,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 234,
+            "path": "debug_full\\dst\\gas_leak\\NoLabel\\20250905-172757-registrar-mono.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 60.67,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 235,
+            "path": "debug_full\\dst\\gas_leak\\NoLabel\\20250905-173252-registrar-mono.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 60.67,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 236,
+            "path": "debug_full\\dst\\gas_leak\\NoLabel\\20250905-173545-registrar-mono.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 60.67,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 237,
+            "path": "debug_full\\dst\\gas_leak\\NoLabel\\20250905-173737-registrar-mono.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 60.67,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 238,
+            "path": "debug_full\\dst\\gas_leak\\NoLabel\\20250905-173948-registrar-mono.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 60.67,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 239,
+            "path": "debug_full\\dst\\gas_leak\\NoLabel\\277361__beerbelly38__file0571_air_hiss_strongest.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 5.72,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 240,
+            "path": "debug_full\\dst\\gas_leak\\NoLabel\\426571__devern__steam.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 4.25,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 241,
+            "path": "debug_full\\dst\\gas_leak\\NoLabel\\615667__henrikcederblad__fol-gas-leak-02.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 7.86,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 242,
+            "path": "debug_full\\dst\\gas_leak\\NoLabel\\750166__datajuggler__fire-extinguisher-spraying.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 47.55,
+                    "labels": [
+                        "gas_leak"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 243,
+            "path": "debug_full\\dst\\water_leak\\NoLabel\\dripping-water-one-minute-269871.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 60.97,
+                    "labels": [
+                        "water_leak"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 244,
+            "path": "debug_full\\dst\\water_leak\\NoLabel\\falling-water-82818.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 8.62,
+                    "labels": [
+                        "water_leak"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 245,
+            "path": "debug_full\\dst\\water_leak\\NoLabel\\flowing-water-sound-effect-418728.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 15.86,
+                    "labels": [
+                        "water_leak"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 246,
+            "path": "debug_full\\dst\\water_leak\\NoLabel\\Sound Effects - Water Leak.wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 23.2,
+                    "labels": [
+                        "water_leak"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 247,
+            "path": "debug_full\\dst\\water_leak\\NoLabel\\Water Dripping Sound Effect (HD).wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 5.02,
+                    "labels": [
+                        "water_leak"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 248,
+            "path": "debug_full\\dst\\water_leak\\NoLabel\\Water Leak - Sound Effect [4K].wav",
+            "mark_list": [
+                {
+                    "start": 0.0,
+                    "end": 128.38,
+                    "labels": [
+                        "water_leak"
+                    ]
+                }
+            ]
+        }
+    ]
+}
